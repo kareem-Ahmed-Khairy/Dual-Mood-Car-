@@ -70,7 +70,7 @@ The app communicates with Arduino via an **HC-05 Bluetooth module**.
 This is the control interface built with **MIT App Inventor**.  
 It allows switching between **Manual** and **Auto** modes, adjusting speed, and controlling direction.
 
-![MIT App Car Controller](app_ui.jpg)
+![MIT App Car Controller](App interface.jpg)
 
 
 
